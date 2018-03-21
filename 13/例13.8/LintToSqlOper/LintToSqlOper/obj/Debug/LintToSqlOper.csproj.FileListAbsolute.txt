@@ -1,0 +1,9 @@
+E:\源码\C#编程宝典\Instance\13\例13.8\LintToSqlOper\LintToSqlOper\bin\Debug\LintToSqlOper.exe.config
+E:\源码\C#编程宝典\Instance\13\例13.8\LintToSqlOper\LintToSqlOper\bin\Debug\LintToSqlOper.exe
+E:\源码\C#编程宝典\Instance\13\例13.8\LintToSqlOper\LintToSqlOper\bin\Debug\LintToSqlOper.pdb
+E:\源码\C#编程宝典\Instance\13\例13.8\LintToSqlOper\LintToSqlOper\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#编程宝典\Instance\13\例13.8\LintToSqlOper\LintToSqlOper\obj\Debug\LintToSqlOper.Form1.resources
+E:\源码\C#编程宝典\Instance\13\例13.8\LintToSqlOper\LintToSqlOper\obj\Debug\LintToSqlOper.Properties.Resources.resources
+E:\源码\C#编程宝典\Instance\13\例13.8\LintToSqlOper\LintToSqlOper\obj\Debug\LintToSqlOper.csproj.GenerateResource.Cache
+E:\源码\C#编程宝典\Instance\13\例13.8\LintToSqlOper\LintToSqlOper\obj\Debug\LintToSqlOper.exe
+E:\源码\C#编程宝典\Instance\13\例13.8\LintToSqlOper\LintToSqlOper\obj\Debug\LintToSqlOper.pdb

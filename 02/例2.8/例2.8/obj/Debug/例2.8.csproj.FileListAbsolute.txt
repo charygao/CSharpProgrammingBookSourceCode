@@ -1,0 +1,9 @@
+D:\工作\编程宝典\内容\光盘代码\MR\Instance\2\例2.8\例2.8\bin\Debug\例2.8.exe
+D:\工作\编程宝典\内容\光盘代码\MR\Instance\2\例2.8\例2.8\bin\Debug\例2.8.pdb
+D:\工作\编程宝典\内容\光盘代码\MR\Instance\2\例2.8\例2.8\obj\Debug\ResolveAssemblyReference.cache
+D:\工作\编程宝典\内容\光盘代码\MR\Instance\2\例2.8\例2.8\obj\Debug\例2.8.exe
+D:\工作\编程宝典\内容\光盘代码\MR\Instance\2\例2.8\例2.8\obj\Debug\例2.8.pdb
+D:\源码\编程宝典\内容\光盘代码\MR\Instance\2\例2.8\例2.8\obj\Debug\例2.8.exe
+D:\源码\编程宝典\内容\光盘代码\MR\Instance\2\例2.8\例2.8\obj\Debug\例2.8.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\2\例2.8\例2.8\obj\Debug\例2.8.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\2\例2.8\例2.8\obj\Debug\例2.8.pdb

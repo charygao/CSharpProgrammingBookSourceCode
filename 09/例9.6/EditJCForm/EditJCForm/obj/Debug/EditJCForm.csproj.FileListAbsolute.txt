@@ -1,0 +1,11 @@
+E:\源码\C#编程宝典\Instance\9\例9.6\EditJCForm\EditJCForm\bin\Debug\EditJCForm.exe
+E:\源码\C#编程宝典\Instance\9\例9.6\EditJCForm\EditJCForm\bin\Debug\EditJCForm.pdb
+E:\源码\C#编程宝典\Instance\9\例9.6\EditJCForm\EditJCForm\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#编程宝典\Instance\9\例9.6\EditJCForm\EditJCForm\obj\Debug\EditJCForm.Form1.resources
+E:\源码\C#编程宝典\Instance\9\例9.6\EditJCForm\EditJCForm\obj\Debug\EditJCForm.Properties.Resources.resources
+E:\源码\C#编程宝典\Instance\9\例9.6\EditJCForm\EditJCForm\obj\Debug\EditJCForm.csproj.GenerateResource.Cache
+E:\源码\C#编程宝典\Instance\9\例9.6\EditJCForm\EditJCForm\obj\Debug\EditJCForm.exe
+E:\源码\C#编程宝典\Instance\9\例9.6\EditJCForm\EditJCForm\obj\Debug\EditJCForm.pdb
+E:\源码\C#编程宝典\Instance\9\例9.6\EditJCForm\EditJCForm\obj\Debug\EditJCForm.Form2.resources
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\9\例9.6\EditJCForm\EditJCForm\obj\Debug\EditJCForm.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\9\例9.6\EditJCForm\EditJCForm\obj\Debug\EditJCForm.pdb

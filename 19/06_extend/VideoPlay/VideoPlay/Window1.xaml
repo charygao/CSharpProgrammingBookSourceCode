@@ -1,0 +1,17 @@
+﻿<Window x:Class="VideoPlay.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="使用WPF打造炫目视频播放器" Height="380" Width="502" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <MediaElement Name="mediaElement1" Margin="0,0,0,59" LoadedBehavior="Manual" MediaOpened="mediaElement1_MediaOpened" MediaEnded="mediaElement1_MediaEnded" />
+        <Button Height="23" HorizontalAlignment="Left" Margin="12,0,0,12" Name="btnPlay" VerticalAlignment="Bottom" Width="47" Click="btnPlay_Click">打开</Button>
+        <Button Height="23" Margin="73,0,0,12" Name="btnStart" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="47" Click="btnStart_Click">开始</Button>
+        <Button Height="23" Margin="132,0,0,12" Name="btnStop" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="46" Click="btnStop_Click">停止</Button>
+        <Slider Height="22" HorizontalAlignment="Right" Margin="0,0,12,12" Name="slider1" VerticalAlignment="Bottom" Width="100" ValueChanged="slider1_ValueChanged" Value="0" SelectionEnd="0" />
+        <Label Height="34" HorizontalAlignment="Right" Margin="0,0,109,0" Name="label1" VerticalAlignment="Bottom" Width="41">音量：</Label>
+        <Slider Height="22" Margin="3,0,1,37" Name="slider2" VerticalAlignment="Bottom" ValueChanged="slider2_ValueChanged" />
+        <Button Height="23" HorizontalAlignment="Right" Margin="0,0,183,12" Name="btnExit" VerticalAlignment="Bottom" Width="46" Click="btnExit_Click">退出</Button>
+        <Button Height="23" Margin="191,0,0,12" Name="btnAllScreen" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="46" Click="btnAllScreen_Click">全屏</Button>
+        <Image Margin="3,0,0,59" Name="image1" Stretch="Fill" Source="back.bmp" />
+    </Grid>
+</Window>

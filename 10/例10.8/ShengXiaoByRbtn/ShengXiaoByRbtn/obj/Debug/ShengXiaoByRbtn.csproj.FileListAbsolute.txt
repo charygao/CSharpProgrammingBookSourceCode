@@ -1,0 +1,10 @@
+E:\源码\C#编程宝典\Instance\10\例10.8\ShengXiaoByRbtn\ShengXiaoByRbtn\bin\Debug\ShengXiaoByRbtn.exe
+E:\源码\C#编程宝典\Instance\10\例10.8\ShengXiaoByRbtn\ShengXiaoByRbtn\bin\Debug\ShengXiaoByRbtn.pdb
+E:\源码\C#编程宝典\Instance\10\例10.8\ShengXiaoByRbtn\ShengXiaoByRbtn\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#编程宝典\Instance\10\例10.8\ShengXiaoByRbtn\ShengXiaoByRbtn\obj\Debug\ShengXiaoByRbtn.Form1.resources
+E:\源码\C#编程宝典\Instance\10\例10.8\ShengXiaoByRbtn\ShengXiaoByRbtn\obj\Debug\ShengXiaoByRbtn.Properties.Resources.resources
+E:\源码\C#编程宝典\Instance\10\例10.8\ShengXiaoByRbtn\ShengXiaoByRbtn\obj\Debug\ShengXiaoByRbtn.csproj.GenerateResource.Cache
+E:\源码\C#编程宝典\Instance\10\例10.8\ShengXiaoByRbtn\ShengXiaoByRbtn\obj\Debug\ShengXiaoByRbtn.exe
+E:\源码\C#编程宝典\Instance\10\例10.8\ShengXiaoByRbtn\ShengXiaoByRbtn\obj\Debug\ShengXiaoByRbtn.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\10\例10.8\ShengXiaoByRbtn\ShengXiaoByRbtn\obj\Debug\ShengXiaoByRbtn.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\10\例10.8\ShengXiaoByRbtn\ShengXiaoByRbtn\obj\Debug\ShengXiaoByRbtn.pdb

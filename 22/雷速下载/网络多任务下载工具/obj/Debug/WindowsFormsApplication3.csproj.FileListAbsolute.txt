@@ -1,0 +1,31 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.bt_StartLoad.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\locations.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\locations.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\复件 WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\复件 WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\复件 WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\复件 WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.bt_StartLoad.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\复件 WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\复件 WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\复件 WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\复件 WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\复件 WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\locations.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\复件 WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\locations.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\下载文件小例子\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\下载文件小例子\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\下载文件小例子\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\下载文件小例子\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\下载文件小例子\WindowsFormsApplication3\bin\Debug\locations.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\下载文件小例子\WindowsFormsApplication3\bin\Debug\locations.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\下载文件小例子\WindowsFormsApplication3\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\下载文件小例子\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\下载文件小例子\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\下载文件小例子\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.LoadStart.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\下载文件小例子\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.main_form.resources

@@ -1,0 +1,7 @@
+E:\源码\C#编程宝典\Instance\5\例5.1\FindMaxAndMin\FindMaxAndMin\bin\Debug\FindMaxAndMin.exe
+E:\源码\C#编程宝典\Instance\5\例5.1\FindMaxAndMin\FindMaxAndMin\bin\Debug\FindMaxAndMin.pdb
+E:\源码\C#编程宝典\Instance\5\例5.1\FindMaxAndMin\FindMaxAndMin\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#编程宝典\Instance\5\例5.1\FindMaxAndMin\FindMaxAndMin\obj\Debug\FindMaxAndMin.exe
+E:\源码\C#编程宝典\Instance\5\例5.1\FindMaxAndMin\FindMaxAndMin\obj\Debug\FindMaxAndMin.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\5\例5.1\FindMaxAndMin\FindMaxAndMin\obj\Debug\FindMaxAndMin.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\5\例5.1\FindMaxAndMin\FindMaxAndMin\obj\Debug\FindMaxAndMin.pdb

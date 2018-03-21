@@ -1,0 +1,9 @@
+E:\源码\C#编程宝典\Instance\13\例13.11\LinqLogin\LinqLogin\bin\Debug\LinqLogin.exe.config
+E:\源码\C#编程宝典\Instance\13\例13.11\LinqLogin\LinqLogin\bin\Debug\LinqLogin.exe
+E:\源码\C#编程宝典\Instance\13\例13.11\LinqLogin\LinqLogin\bin\Debug\LinqLogin.pdb
+E:\源码\C#编程宝典\Instance\13\例13.11\LinqLogin\LinqLogin\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#编程宝典\Instance\13\例13.11\LinqLogin\LinqLogin\obj\Debug\LinqLogin.Form1.resources
+E:\源码\C#编程宝典\Instance\13\例13.11\LinqLogin\LinqLogin\obj\Debug\LinqLogin.Properties.Resources.resources
+E:\源码\C#编程宝典\Instance\13\例13.11\LinqLogin\LinqLogin\obj\Debug\LinqLogin.csproj.GenerateResource.Cache
+E:\源码\C#编程宝典\Instance\13\例13.11\LinqLogin\LinqLogin\obj\Debug\LinqLogin.exe
+E:\源码\C#编程宝典\Instance\13\例13.11\LinqLogin\LinqLogin\obj\Debug\LinqLogin.pdb

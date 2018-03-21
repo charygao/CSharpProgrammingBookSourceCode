@@ -1,0 +1,7 @@
+E:\源码\C#编程宝典\Instance\6\例6.4\ConChar\ConChar\bin\Debug\ConChar.exe
+E:\源码\C#编程宝典\Instance\6\例6.4\ConChar\ConChar\bin\Debug\ConChar.pdb
+E:\源码\C#编程宝典\Instance\6\例6.4\ConChar\ConChar\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#编程宝典\Instance\6\例6.4\ConChar\ConChar\obj\Debug\ConChar.exe
+E:\源码\C#编程宝典\Instance\6\例6.4\ConChar\ConChar\obj\Debug\ConChar.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\6\例6.4\ConChar\ConChar\obj\Debug\ConChar.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\6\例6.4\ConChar\ConChar\obj\Debug\ConChar.pdb

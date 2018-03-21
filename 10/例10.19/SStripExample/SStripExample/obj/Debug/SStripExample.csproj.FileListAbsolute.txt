@@ -1,0 +1,10 @@
+E:\源码\C#编程宝典\Instance\10\例10.19\SStripExample\SStripExample\bin\Debug\SStripExample.exe
+E:\源码\C#编程宝典\Instance\10\例10.19\SStripExample\SStripExample\bin\Debug\SStripExample.pdb
+E:\源码\C#编程宝典\Instance\10\例10.19\SStripExample\SStripExample\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#编程宝典\Instance\10\例10.19\SStripExample\SStripExample\obj\Debug\SStripExample.Form1.resources
+E:\源码\C#编程宝典\Instance\10\例10.19\SStripExample\SStripExample\obj\Debug\SStripExample.Properties.Resources.resources
+E:\源码\C#编程宝典\Instance\10\例10.19\SStripExample\SStripExample\obj\Debug\SStripExample.csproj.GenerateResource.Cache
+E:\源码\C#编程宝典\Instance\10\例10.19\SStripExample\SStripExample\obj\Debug\SStripExample.exe
+E:\源码\C#编程宝典\Instance\10\例10.19\SStripExample\SStripExample\obj\Debug\SStripExample.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\10\例10.19\SStripExample\SStripExample\obj\Debug\SStripExample.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\10\例10.19\SStripExample\SStripExample\obj\Debug\SStripExample.pdb

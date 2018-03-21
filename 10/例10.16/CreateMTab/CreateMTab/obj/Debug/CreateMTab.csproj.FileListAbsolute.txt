@@ -1,0 +1,10 @@
+E:\源码\C#编程宝典\Instance\10\例10.16\CreateMTab\CreateMTab\bin\Debug\CreateMTab.exe
+E:\源码\C#编程宝典\Instance\10\例10.16\CreateMTab\CreateMTab\bin\Debug\CreateMTab.pdb
+E:\源码\C#编程宝典\Instance\10\例10.16\CreateMTab\CreateMTab\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#编程宝典\Instance\10\例10.16\CreateMTab\CreateMTab\obj\Debug\CreateMTab.Form1.resources
+E:\源码\C#编程宝典\Instance\10\例10.16\CreateMTab\CreateMTab\obj\Debug\CreateMTab.Properties.Resources.resources
+E:\源码\C#编程宝典\Instance\10\例10.16\CreateMTab\CreateMTab\obj\Debug\CreateMTab.csproj.GenerateResource.Cache
+E:\源码\C#编程宝典\Instance\10\例10.16\CreateMTab\CreateMTab\obj\Debug\CreateMTab.exe
+E:\源码\C#编程宝典\Instance\10\例10.16\CreateMTab\CreateMTab\obj\Debug\CreateMTab.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\10\例10.16\CreateMTab\CreateMTab\obj\Debug\CreateMTab.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\10\例10.16\CreateMTab\CreateMTab\obj\Debug\CreateMTab.pdb

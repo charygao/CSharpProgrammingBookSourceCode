@@ -1,0 +1,15 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\locations\bin\Debug\locations.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\locations\bin\Debug\locations.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\locations\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\locations\obj\Debug\locations.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\locations\obj\Debug\locations.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\下载文件小例子\locations\bin\Debug\locations.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\下载文件小例子\locations\bin\Debug\locations.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\下载文件小例子\locations\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\下载文件小例子\locations\obj\Debug\locations.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\下载文件小例子\locations\obj\Debug\locations.pdb
+C:\Documents and Settings\Administrator\桌面\雷速下载\locations\bin\Debug\locations.dll
+C:\Documents and Settings\Administrator\桌面\雷速下载\locations\bin\Debug\locations.pdb
+C:\Documents and Settings\Administrator\桌面\雷速下载\locations\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\雷速下载\locations\obj\Debug\locations.dll
+C:\Documents and Settings\Administrator\桌面\雷速下载\locations\obj\Debug\locations.pdb

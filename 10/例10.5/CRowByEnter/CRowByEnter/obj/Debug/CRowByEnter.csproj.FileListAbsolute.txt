@@ -1,0 +1,10 @@
+E:\源码\C#编程宝典\Instance\10\例10.5\CRowByEnter\CRowByEnter\bin\Debug\CRowByEnter.exe
+E:\源码\C#编程宝典\Instance\10\例10.5\CRowByEnter\CRowByEnter\bin\Debug\CRowByEnter.pdb
+E:\源码\C#编程宝典\Instance\10\例10.5\CRowByEnter\CRowByEnter\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#编程宝典\Instance\10\例10.5\CRowByEnter\CRowByEnter\obj\Debug\CRowByEnter.Form1.resources
+E:\源码\C#编程宝典\Instance\10\例10.5\CRowByEnter\CRowByEnter\obj\Debug\CRowByEnter.Properties.Resources.resources
+E:\源码\C#编程宝典\Instance\10\例10.5\CRowByEnter\CRowByEnter\obj\Debug\CRowByEnter.csproj.GenerateResource.Cache
+E:\源码\C#编程宝典\Instance\10\例10.5\CRowByEnter\CRowByEnter\obj\Debug\CRowByEnter.exe
+E:\源码\C#编程宝典\Instance\10\例10.5\CRowByEnter\CRowByEnter\obj\Debug\CRowByEnter.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\10\例10.5\CRowByEnter\CRowByEnter\obj\Debug\CRowByEnter.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\10\例10.5\CRowByEnter\CRowByEnter\obj\Debug\CRowByEnter.pdb

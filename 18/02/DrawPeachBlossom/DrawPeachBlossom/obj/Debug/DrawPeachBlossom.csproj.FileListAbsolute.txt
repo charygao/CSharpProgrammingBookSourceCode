@@ -1,0 +1,18 @@
+F:\源码\C#编程词典插件\03  变量与常量\快乐编程驿站\画桃花\DrawPeachBlossom\DrawPeachBlossom\obj\Debug\ResolveAssemblyReference.cache
+F:\源码\C#编程词典插件\03  变量与常量\快乐编程驿站\画桃花\DrawPeachBlossom\DrawPeachBlossom\obj\Debug\DrawPeachBlossom.Form1.resources
+F:\源码\C#编程词典插件\03  变量与常量\快乐编程驿站\画桃花\DrawPeachBlossom\DrawPeachBlossom\obj\Debug\DrawPeachBlossom.Properties.Resources.resources
+F:\源码\C#编程词典插件\03  变量与常量\快乐编程驿站\画桃花\DrawPeachBlossom\DrawPeachBlossom\obj\Debug\DrawPeachBlossom.csproj.GenerateResource.Cache
+F:\源码\C#编程词典插件\03  变量与常量\快乐编程驿站\画桃花\DrawPeachBlossom\DrawPeachBlossom\bin\Debug\DrawPeachBlossom.exe
+F:\源码\C#编程词典插件\03  变量与常量\快乐编程驿站\画桃花\DrawPeachBlossom\DrawPeachBlossom\bin\Debug\DrawPeachBlossom.pdb
+F:\源码\C#编程词典插件\03  变量与常量\快乐编程驿站\画桃花\DrawPeachBlossom\DrawPeachBlossom\obj\Debug\DrawPeachBlossom.exe
+F:\源码\C#编程词典插件\03  变量与常量\快乐编程驿站\画桃花\DrawPeachBlossom\DrawPeachBlossom\obj\Debug\DrawPeachBlossom.pdb
+F:\zhd\C#编程宝典\18章\18\02\DrawPeachBlossom\DrawPeachBlossom\obj\Debug\DrawPeachBlossom.exe
+F:\zhd\C#编程宝典\18章\18\02\DrawPeachBlossom\DrawPeachBlossom\obj\Debug\DrawPeachBlossom.pdb
+F:\zhd\C#编程宝典\18章\18\02\DrawPeachBlossom\DrawPeachBlossom\bin\Debug\DrawPeachBlossom.exe
+F:\zhd\C#编程宝典\18章\18\02\DrawPeachBlossom\DrawPeachBlossom\bin\Debug\DrawPeachBlossom.pdb
+F:\zhd\C#编程宝典\18章\18\02\DrawPeachBlossom\DrawPeachBlossom\obj\Debug\ResolveAssemblyReference.cache
+F:\zhd\C#编程宝典\18章\18\02\DrawPeachBlossom\DrawPeachBlossom\obj\Debug\DrawPeachBlossom.Form1.resources
+F:\zhd\C#编程宝典\18章\18\02\DrawPeachBlossom\DrawPeachBlossom\obj\Debug\DrawPeachBlossom.Properties.Resources.resources
+F:\zhd\C#编程宝典\18章\18\02\DrawPeachBlossom\DrawPeachBlossom\obj\Debug\DrawPeachBlossom.csproj.GenerateResource.Cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\18\02\DrawPeachBlossom\DrawPeachBlossom\obj\Debug\DrawPeachBlossom.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\18\02\DrawPeachBlossom\DrawPeachBlossom\obj\Debug\DrawPeachBlossom.pdb

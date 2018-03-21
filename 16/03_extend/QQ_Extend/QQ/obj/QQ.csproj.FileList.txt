@@ -1,0 +1,8 @@
+bin\Debug\QQ.exe
+bin\Debug\QQ.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\QQ.Form1.resources
+obj\Debug\QQ.Properties.Resources.resources
+obj\Debug\QQ.csproj.GenerateResource.Cache
+obj\Debug\QQ.exe
+obj\Debug\QQ.pdb

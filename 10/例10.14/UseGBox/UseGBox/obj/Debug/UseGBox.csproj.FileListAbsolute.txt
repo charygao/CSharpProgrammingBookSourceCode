@@ -1,0 +1,10 @@
+E:\源码\C#编程宝典\Instance\10\例10.14\UseGBox\UseGBox\bin\Debug\UseGBox.exe
+E:\源码\C#编程宝典\Instance\10\例10.14\UseGBox\UseGBox\bin\Debug\UseGBox.pdb
+E:\源码\C#编程宝典\Instance\10\例10.14\UseGBox\UseGBox\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#编程宝典\Instance\10\例10.14\UseGBox\UseGBox\obj\Debug\UseGBox.Form1.resources
+E:\源码\C#编程宝典\Instance\10\例10.14\UseGBox\UseGBox\obj\Debug\UseGBox.Properties.Resources.resources
+E:\源码\C#编程宝典\Instance\10\例10.14\UseGBox\UseGBox\obj\Debug\UseGBox.csproj.GenerateResource.Cache
+E:\源码\C#编程宝典\Instance\10\例10.14\UseGBox\UseGBox\obj\Debug\UseGBox.exe
+E:\源码\C#编程宝典\Instance\10\例10.14\UseGBox\UseGBox\obj\Debug\UseGBox.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\10\例10.14\UseGBox\UseGBox\obj\Debug\UseGBox.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\10\例10.14\UseGBox\UseGBox\obj\Debug\UseGBox.pdb

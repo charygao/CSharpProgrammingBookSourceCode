@@ -1,0 +1,10 @@
+E:\源码\C#编程宝典\Instance\10\例10.10\SelectDPartByCombox\SelectDPartByCombox\bin\Debug\SelectDPartByCombox.exe
+E:\源码\C#编程宝典\Instance\10\例10.10\SelectDPartByCombox\SelectDPartByCombox\bin\Debug\SelectDPartByCombox.pdb
+E:\源码\C#编程宝典\Instance\10\例10.10\SelectDPartByCombox\SelectDPartByCombox\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#编程宝典\Instance\10\例10.10\SelectDPartByCombox\SelectDPartByCombox\obj\Debug\SelectDPartByCombox.Form1.resources
+E:\源码\C#编程宝典\Instance\10\例10.10\SelectDPartByCombox\SelectDPartByCombox\obj\Debug\SelectDPartByCombox.Properties.Resources.resources
+E:\源码\C#编程宝典\Instance\10\例10.10\SelectDPartByCombox\SelectDPartByCombox\obj\Debug\SelectDPartByCombox.csproj.GenerateResource.Cache
+E:\源码\C#编程宝典\Instance\10\例10.10\SelectDPartByCombox\SelectDPartByCombox\obj\Debug\SelectDPartByCombox.exe
+E:\源码\C#编程宝典\Instance\10\例10.10\SelectDPartByCombox\SelectDPartByCombox\obj\Debug\SelectDPartByCombox.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\10\例10.10\SelectDPartByCombox\SelectDPartByCombox\obj\Debug\SelectDPartByCombox.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\10\例10.10\SelectDPartByCombox\SelectDPartByCombox\obj\Debug\SelectDPartByCombox.pdb

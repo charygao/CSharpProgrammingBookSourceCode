@@ -1,0 +1,7 @@
+E:\源码\C#编程宝典\Instance\6\例6.19\CopyToStr\CopyToStr\bin\Debug\CopyToStr.exe
+E:\源码\C#编程宝典\Instance\6\例6.19\CopyToStr\CopyToStr\bin\Debug\CopyToStr.pdb
+E:\源码\C#编程宝典\Instance\6\例6.19\CopyToStr\CopyToStr\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#编程宝典\Instance\6\例6.19\CopyToStr\CopyToStr\obj\Debug\CopyToStr.exe
+E:\源码\C#编程宝典\Instance\6\例6.19\CopyToStr\CopyToStr\obj\Debug\CopyToStr.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\6\例6.19\CopyToStr\CopyToStr\obj\Debug\CopyToStr.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\6\例6.19\CopyToStr\CopyToStr\obj\Debug\CopyToStr.pdb

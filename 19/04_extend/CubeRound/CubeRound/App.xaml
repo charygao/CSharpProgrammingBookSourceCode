@@ -1,0 +1,13 @@
+﻿<Application x:Class="CubeRound.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    StartupUri="Window1.xaml">
+    <Application.Resources>
+        <SolidColorBrush x:Key="lblueBrush" Color="LightBlue" Opacity="1.0" />
+        <SolidColorBrush x:Key="lsgreenBrush" Color="LightSeaGreen" Opacity="1.0" />
+        <SolidColorBrush x:Key="lyellowBrush" Color="LightYellow" Opacity="1.0" />
+        <SolidColorBrush x:Key="goldBrush" Color="Gold" Opacity="1.0" />
+        <SolidColorBrush x:Key="lgreenBrush" Color="LightGreen" Opacity="1.0" />
+        <SolidColorBrush x:Key="lcyanBrush" Color="LightCyan" Opacity="1.0" /> 
+    </Application.Resources>
+</Application>

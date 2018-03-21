@@ -1,0 +1,9 @@
+D:\工作\编程宝典\内容\光盘代码\MR\Instance\4\例4.18\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\工作\编程宝典\内容\光盘代码\MR\Instance\4\例4.18\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\工作\编程宝典\内容\光盘代码\MR\Instance\4\例4.18\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\工作\编程宝典\内容\光盘代码\MR\Instance\4\例4.18\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\工作\编程宝典\内容\光盘代码\MR\Instance\4\例4.18\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\4\例4.18\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\4\例4.18\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\MR\Instance\4\例4.18\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\MR\Instance\4\例4.18\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

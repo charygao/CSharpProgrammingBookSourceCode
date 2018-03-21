@@ -1,0 +1,8 @@
+E:\源码\C#编程宝典\Instance\13\例13.10\LinqCreateXML\LinqCreateXML\bin\Debug\LinqCreateXML.exe
+E:\源码\C#编程宝典\Instance\13\例13.10\LinqCreateXML\LinqCreateXML\bin\Debug\LinqCreateXML.pdb
+E:\源码\C#编程宝典\Instance\13\例13.10\LinqCreateXML\LinqCreateXML\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#编程宝典\Instance\13\例13.10\LinqCreateXML\LinqCreateXML\obj\Debug\LinqCreateXML.Form1.resources
+E:\源码\C#编程宝典\Instance\13\例13.10\LinqCreateXML\LinqCreateXML\obj\Debug\LinqCreateXML.Properties.Resources.resources
+E:\源码\C#编程宝典\Instance\13\例13.10\LinqCreateXML\LinqCreateXML\obj\Debug\LinqCreateXML.csproj.GenerateResource.Cache
+E:\源码\C#编程宝典\Instance\13\例13.10\LinqCreateXML\LinqCreateXML\obj\Debug\LinqCreateXML.exe
+E:\源码\C#编程宝典\Instance\13\例13.10\LinqCreateXML\LinqCreateXML\obj\Debug\LinqCreateXML.pdb

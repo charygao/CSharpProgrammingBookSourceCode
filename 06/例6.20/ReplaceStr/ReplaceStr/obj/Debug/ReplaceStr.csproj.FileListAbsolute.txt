@@ -1,0 +1,7 @@
+E:\源码\C#编程宝典\Instance\6\例6.20\ReplaceStr\ReplaceStr\bin\Debug\ReplaceStr.exe
+E:\源码\C#编程宝典\Instance\6\例6.20\ReplaceStr\ReplaceStr\bin\Debug\ReplaceStr.pdb
+E:\源码\C#编程宝典\Instance\6\例6.20\ReplaceStr\ReplaceStr\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#编程宝典\Instance\6\例6.20\ReplaceStr\ReplaceStr\obj\Debug\ReplaceStr.exe
+E:\源码\C#编程宝典\Instance\6\例6.20\ReplaceStr\ReplaceStr\obj\Debug\ReplaceStr.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\6\例6.20\ReplaceStr\ReplaceStr\obj\Debug\ReplaceStr.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\6\例6.20\ReplaceStr\ReplaceStr\obj\Debug\ReplaceStr.pdb

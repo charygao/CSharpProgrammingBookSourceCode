@@ -1,0 +1,9 @@
+E:\源码\C#编程宝典\Instance\13\例13.12\LinqPages\LinqPages\bin\Debug\LinqPages.exe.config
+E:\源码\C#编程宝典\Instance\13\例13.12\LinqPages\LinqPages\bin\Debug\LinqPages.exe
+E:\源码\C#编程宝典\Instance\13\例13.12\LinqPages\LinqPages\bin\Debug\LinqPages.pdb
+E:\源码\C#编程宝典\Instance\13\例13.12\LinqPages\LinqPages\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#编程宝典\Instance\13\例13.12\LinqPages\LinqPages\obj\Debug\LinqPages.Form1.resources
+E:\源码\C#编程宝典\Instance\13\例13.12\LinqPages\LinqPages\obj\Debug\LinqPages.Properties.Resources.resources
+E:\源码\C#编程宝典\Instance\13\例13.12\LinqPages\LinqPages\obj\Debug\LinqPages.csproj.GenerateResource.Cache
+E:\源码\C#编程宝典\Instance\13\例13.12\LinqPages\LinqPages\obj\Debug\LinqPages.exe
+E:\源码\C#编程宝典\Instance\13\例13.12\LinqPages\LinqPages\obj\Debug\LinqPages.pdb

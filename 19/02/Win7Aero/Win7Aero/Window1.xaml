@@ -1,0 +1,8 @@
+﻿<Window x:Class="Win7Aero.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="实现Windows 7的Aero效果" Height="268" Width="333" Loaded="Window_Loaded" Background="Transparent" WindowStartupLocation="CenterScreen">
+    <Grid>
+        
+    </Grid>
+</Window>

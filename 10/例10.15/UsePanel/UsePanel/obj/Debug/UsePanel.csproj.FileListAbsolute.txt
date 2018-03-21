@@ -1,0 +1,10 @@
+E:\源码\C#编程宝典\Instance\10\例10.15\UsePanel\UsePanel\bin\Debug\UsePanel.exe
+E:\源码\C#编程宝典\Instance\10\例10.15\UsePanel\UsePanel\bin\Debug\UsePanel.pdb
+E:\源码\C#编程宝典\Instance\10\例10.15\UsePanel\UsePanel\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#编程宝典\Instance\10\例10.15\UsePanel\UsePanel\obj\Debug\UsePanel.Form1.resources
+E:\源码\C#编程宝典\Instance\10\例10.15\UsePanel\UsePanel\obj\Debug\UsePanel.Properties.Resources.resources
+E:\源码\C#编程宝典\Instance\10\例10.15\UsePanel\UsePanel\obj\Debug\UsePanel.csproj.GenerateResource.Cache
+E:\源码\C#编程宝典\Instance\10\例10.15\UsePanel\UsePanel\obj\Debug\UsePanel.exe
+E:\源码\C#编程宝典\Instance\10\例10.15\UsePanel\UsePanel\obj\Debug\UsePanel.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\10\例10.15\UsePanel\UsePanel\obj\Debug\UsePanel.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\10\例10.15\UsePanel\UsePanel\obj\Debug\UsePanel.pdb

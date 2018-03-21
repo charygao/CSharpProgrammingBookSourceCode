@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{C61913BB-9363-4E00-A51D-D54ECE059FA6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TestSetup", "TestSetup\TestSetup.vdproj", "{14FAC566-D1CD-44EB-A041-30F9C5EF64CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C61913BB-9363-4E00-A51D-D54ECE059FA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C61913BB-9363-4E00-A51D-D54ECE059FA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C61913BB-9363-4E00-A51D-D54ECE059FA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C61913BB-9363-4E00-A51D-D54ECE059FA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14FAC566-D1CD-44EB-A041-30F9C5EF64CD}.Debug|Any CPU.ActiveCfg = Debug
+		{14FAC566-D1CD-44EB-A041-30F9C5EF64CD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

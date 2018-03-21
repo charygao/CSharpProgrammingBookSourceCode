@@ -1,0 +1,10 @@
+E:\源码\C#编程宝典\Instance\10\例10.11\GetFilesCountByLBox\GetFilesCountByLBox\bin\Debug\GetFilesCountByLBox.exe
+E:\源码\C#编程宝典\Instance\10\例10.11\GetFilesCountByLBox\GetFilesCountByLBox\bin\Debug\GetFilesCountByLBox.pdb
+E:\源码\C#编程宝典\Instance\10\例10.11\GetFilesCountByLBox\GetFilesCountByLBox\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#编程宝典\Instance\10\例10.11\GetFilesCountByLBox\GetFilesCountByLBox\obj\Debug\GetFilesCountByLBox.Form1.resources
+E:\源码\C#编程宝典\Instance\10\例10.11\GetFilesCountByLBox\GetFilesCountByLBox\obj\Debug\GetFilesCountByLBox.Properties.Resources.resources
+E:\源码\C#编程宝典\Instance\10\例10.11\GetFilesCountByLBox\GetFilesCountByLBox\obj\Debug\GetFilesCountByLBox.csproj.GenerateResource.Cache
+E:\源码\C#编程宝典\Instance\10\例10.11\GetFilesCountByLBox\GetFilesCountByLBox\obj\Debug\GetFilesCountByLBox.exe
+E:\源码\C#编程宝典\Instance\10\例10.11\GetFilesCountByLBox\GetFilesCountByLBox\obj\Debug\GetFilesCountByLBox.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\10\例10.11\GetFilesCountByLBox\GetFilesCountByLBox\obj\Debug\GetFilesCountByLBox.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\10\例10.11\GetFilesCountByLBox\GetFilesCountByLBox\obj\Debug\GetFilesCountByLBox.pdb

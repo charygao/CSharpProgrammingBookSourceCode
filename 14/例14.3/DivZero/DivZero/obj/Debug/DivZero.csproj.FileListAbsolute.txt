@@ -1,0 +1,10 @@
+E:\源码\C#编程宝典\Instance\14\例14.3\DivZero\DivZero\bin\Debug\DivZero.exe
+E:\源码\C#编程宝典\Instance\14\例14.3\DivZero\DivZero\bin\Debug\DivZero.pdb
+E:\源码\C#编程宝典\Instance\14\例14.3\DivZero\DivZero\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#编程宝典\Instance\14\例14.3\DivZero\DivZero\obj\Debug\DivZero.Form1.resources
+E:\源码\C#编程宝典\Instance\14\例14.3\DivZero\DivZero\obj\Debug\DivZero.Properties.Resources.resources
+E:\源码\C#编程宝典\Instance\14\例14.3\DivZero\DivZero\obj\Debug\DivZero.csproj.GenerateResource.Cache
+E:\源码\C#编程宝典\Instance\14\例14.3\DivZero\DivZero\obj\Debug\DivZero.exe
+E:\源码\C#编程宝典\Instance\14\例14.3\DivZero\DivZero\obj\Debug\DivZero.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\14\例14.3\DivZero\DivZero\obj\Debug\DivZero.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\14\例14.3\DivZero\DivZero\obj\Debug\DivZero.pdb

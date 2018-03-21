@@ -1,0 +1,55 @@
+﻿<Window x:Class="CombinImage.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="两种图形有多少种组合方式" Height="300" Width="300" Background="AliceBlue" WindowStartupLocation="CenterScreen">
+    <Canvas>
+        <Path Fill="YellowGreen" Stroke="Orange" Margin="10" Canvas.Top="10" Canvas.Left="10" >
+            <Path.Data>
+                <CombinedGeometry GeometryCombineMode="Union">
+                    <CombinedGeometry.Geometry1>
+                        <RectangleGeometry Rect="0,0 100,100"/>
+                    </CombinedGeometry.Geometry1>
+                    <CombinedGeometry.Geometry2>
+                        <EllipseGeometry Center="90,50" RadiusX="25" RadiusY="25"/>
+                    </CombinedGeometry.Geometry2>
+                </CombinedGeometry>
+            </Path.Data>
+        </Path>
+        <Path Fill="YellowGreen" Stroke="Orange" Margin="10" Canvas.Top="10" Canvas.Left="140" >
+            <Path.Data>
+                <CombinedGeometry GeometryCombineMode="Exclude">
+                    <CombinedGeometry.Geometry1>
+                        <RectangleGeometry Rect="0,0 100,100"/>
+                    </CombinedGeometry.Geometry1>
+                    <CombinedGeometry.Geometry2>
+                        <EllipseGeometry Center="90,50" RadiusX="25" RadiusY="25"/>
+                    </CombinedGeometry.Geometry2>
+                </CombinedGeometry>
+            </Path.Data>
+        </Path>
+        <Path Fill="YellowGreen" Stroke="Orange" Margin="10" Canvas.Top="130" Canvas.Left="10" >
+            <Path.Data>
+                <CombinedGeometry GeometryCombineMode="Intersect">
+                    <CombinedGeometry.Geometry1>
+                        <RectangleGeometry Rect="0,0 100,100"/>
+                    </CombinedGeometry.Geometry1>
+                    <CombinedGeometry.Geometry2>
+                        <EllipseGeometry Center="90,50" RadiusX="25" RadiusY="25"/>
+                    </CombinedGeometry.Geometry2>
+                </CombinedGeometry>
+            </Path.Data>
+        </Path>
+        <Path Fill="YellowGreen" Stroke="Orange" Margin="10" Canvas.Top="130" Canvas.Left="140" >
+            <Path.Data>
+                <CombinedGeometry GeometryCombineMode="Xor">
+                    <CombinedGeometry.Geometry1>
+                        <RectangleGeometry Rect="0,0 100,100"/>
+                    </CombinedGeometry.Geometry1>
+                    <CombinedGeometry.Geometry2>
+                        <EllipseGeometry Center="90,50" RadiusX="25" RadiusY="25"/>
+                    </CombinedGeometry.Geometry2>
+                </CombinedGeometry>
+            </Path.Data>
+        </Path>
+    </Canvas>
+</Window>

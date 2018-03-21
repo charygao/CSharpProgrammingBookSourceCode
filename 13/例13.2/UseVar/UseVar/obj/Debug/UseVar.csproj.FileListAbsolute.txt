@@ -1,0 +1,7 @@
+E:\源码\C#编程宝典\Instance\13\例13.2\UseVar\UseVar\bin\Debug\UseVar.exe
+E:\源码\C#编程宝典\Instance\13\例13.2\UseVar\UseVar\bin\Debug\UseVar.pdb
+E:\源码\C#编程宝典\Instance\13\例13.2\UseVar\UseVar\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#编程宝典\Instance\13\例13.2\UseVar\UseVar\obj\Debug\UseVar.exe
+E:\源码\C#编程宝典\Instance\13\例13.2\UseVar\UseVar\obj\Debug\UseVar.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\13\例13.2\UseVar\UseVar\obj\Debug\UseVar.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\13\例13.2\UseVar\UseVar\obj\Debug\UseVar.pdb

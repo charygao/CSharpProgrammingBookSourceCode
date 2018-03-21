@@ -1,0 +1,10 @@
+E:\源码\C#编程宝典\Instance\10\例10.7\SelectNumByUpDown\SelectNumByUpDown\bin\Debug\SelectNumByUpDown.exe
+E:\源码\C#编程宝典\Instance\10\例10.7\SelectNumByUpDown\SelectNumByUpDown\bin\Debug\SelectNumByUpDown.pdb
+E:\源码\C#编程宝典\Instance\10\例10.7\SelectNumByUpDown\SelectNumByUpDown\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#编程宝典\Instance\10\例10.7\SelectNumByUpDown\SelectNumByUpDown\obj\Debug\SelectNumByUpDown.Form1.resources
+E:\源码\C#编程宝典\Instance\10\例10.7\SelectNumByUpDown\SelectNumByUpDown\obj\Debug\SelectNumByUpDown.Properties.Resources.resources
+E:\源码\C#编程宝典\Instance\10\例10.7\SelectNumByUpDown\SelectNumByUpDown\obj\Debug\SelectNumByUpDown.csproj.GenerateResource.Cache
+E:\源码\C#编程宝典\Instance\10\例10.7\SelectNumByUpDown\SelectNumByUpDown\obj\Debug\SelectNumByUpDown.exe
+E:\源码\C#编程宝典\Instance\10\例10.7\SelectNumByUpDown\SelectNumByUpDown\obj\Debug\SelectNumByUpDown.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\10\例10.7\SelectNumByUpDown\SelectNumByUpDown\obj\Debug\SelectNumByUpDown.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\10\例10.7\SelectNumByUpDown\SelectNumByUpDown\obj\Debug\SelectNumByUpDown.pdb

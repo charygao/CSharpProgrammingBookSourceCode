@@ -1,0 +1,5 @@
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\8\例8.9\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\8\例8.9\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\8\例8.9\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\8\例8.9\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\8\例8.9\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,12 @@
+C:\Documents and Settings\Administrator\桌面\计算器\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\Administrator\桌面\计算器\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\计算器\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\计算器\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\Administrator\桌面\计算器\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\源码\编程宝典\内容\光盘代码\MR\Instance\3\例3.35\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\源码\编程宝典\内容\光盘代码\MR\Instance\3\例3.35\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\源码\编程宝典\内容\光盘代码\MR\Instance\3\例3.35\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\源码\编程宝典\内容\光盘代码\MR\Instance\3\例3.35\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\源码\编程宝典\内容\光盘代码\MR\Instance\3\例3.35\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\3\例3.35\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\3\例3.35\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

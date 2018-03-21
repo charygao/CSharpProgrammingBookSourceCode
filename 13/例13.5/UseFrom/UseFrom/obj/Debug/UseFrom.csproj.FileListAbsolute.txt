@@ -1,0 +1,7 @@
+E:\源码\C#编程宝典\Instance\13\例13.5\UseFrom\UseFrom\bin\Debug\UseFrom.exe
+E:\源码\C#编程宝典\Instance\13\例13.5\UseFrom\UseFrom\bin\Debug\UseFrom.pdb
+E:\源码\C#编程宝典\Instance\13\例13.5\UseFrom\UseFrom\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#编程宝典\Instance\13\例13.5\UseFrom\UseFrom\obj\Debug\UseFrom.exe
+E:\源码\C#编程宝典\Instance\13\例13.5\UseFrom\UseFrom\obj\Debug\UseFrom.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\13\例13.5\UseFrom\UseFrom\obj\Debug\UseFrom.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\13\例13.5\UseFrom\UseFrom\obj\Debug\UseFrom.pdb

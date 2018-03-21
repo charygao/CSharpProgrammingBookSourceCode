@@ -1,0 +1,20 @@
+E:\编程词典补充内容\进阶训练\10  面向对象技术高级应用\快乐编程驿站\01\ConstellationSearch\ConstellationSearch\bin\Debug\ConstellationSearch.exe
+E:\编程词典补充内容\进阶训练\10  面向对象技术高级应用\快乐编程驿站\01\ConstellationSearch\ConstellationSearch\bin\Debug\ConstellationSearch.pdb
+E:\编程词典补充内容\进阶训练\10  面向对象技术高级应用\快乐编程驿站\01\ConstellationSearch\ConstellationSearch\obj\Debug\ResolveAssemblyReference.cache
+E:\编程词典补充内容\进阶训练\10  面向对象技术高级应用\快乐编程驿站\01\ConstellationSearch\ConstellationSearch\obj\Debug\ConstellationSearch.Properties.Resources.resources
+E:\编程词典补充内容\进阶训练\10  面向对象技术高级应用\快乐编程驿站\01\ConstellationSearch\ConstellationSearch\obj\Debug\ConstellationSearch.csproj.GenerateResource.Cache
+E:\编程词典补充内容\进阶训练\10  面向对象技术高级应用\快乐编程驿站\01\ConstellationSearch\ConstellationSearch\obj\Debug\ConstellationSearch.exe
+E:\编程词典补充内容\进阶训练\10  面向对象技术高级应用\快乐编程驿站\01\ConstellationSearch\ConstellationSearch\obj\Debug\ConstellationSearch.pdb
+E:\编程词典补充内容\进阶训练\10  面向对象技术高级应用\快乐编程驿站\01\ConstellationSearch\ConstellationSearch\obj\Debug\ConstellationSearch.frmMain.resources
+E:\编程词典补充内容\进阶训练\10  面向对象技术高级应用\快乐编程驿站\01\ConstellationSearch\ConstellationSearch\bin\Debug\Constellation.pdb
+E:\编程词典补充内容\进阶训练\10  面向对象技术高级应用\快乐编程驿站\01\ConstellationSearch\ConstellationSearch\bin\Debug\Constellation.dll
+E:\源码\C#编程宝典\Instance\5\例5.7\ConstellationSearch\ConstellationSearch\obj\Debug\ConstellationSearch.exe
+E:\源码\C#编程宝典\Instance\5\例5.7\ConstellationSearch\ConstellationSearch\obj\Debug\ConstellationSearch.pdb
+E:\源码\C#编程宝典\Instance\5\例5.7\ConstellationSearch\ConstellationSearch\bin\Debug\ConstellationSearch.exe
+E:\源码\C#编程宝典\Instance\5\例5.7\ConstellationSearch\ConstellationSearch\bin\Debug\ConstellationSearch.pdb
+E:\源码\C#编程宝典\Instance\5\例5.7\ConstellationSearch\ConstellationSearch\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#编程宝典\Instance\5\例5.7\ConstellationSearch\ConstellationSearch\obj\Debug\ConstellationSearch.Properties.Resources.resources
+E:\源码\C#编程宝典\Instance\5\例5.7\ConstellationSearch\ConstellationSearch\obj\Debug\ConstellationSearch.csproj.GenerateResource.Cache
+E:\源码\C#编程宝典\Instance\5\例5.7\ConstellationSearch\ConstellationSearch\obj\Debug\ConstellationSearch.Form1.resources
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\5\例5.7\ConstellationSearch\ConstellationSearch\obj\Debug\ConstellationSearch.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\5\例5.7\ConstellationSearch\ConstellationSearch\obj\Debug\ConstellationSearch.pdb

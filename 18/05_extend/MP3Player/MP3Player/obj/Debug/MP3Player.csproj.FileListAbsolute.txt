@@ -1,0 +1,65 @@
+E:\范例宝典精华版\MP3Player\MP3Player\bin\Debug\MP3Player.exe
+E:\范例宝典精华版\MP3Player\MP3Player\bin\Debug\MP3Player.pdb
+E:\范例宝典精华版\MP3Player\MP3Player\obj\Debug\ResolveAssemblyReference.cache
+E:\范例宝典精华版\MP3Player\MP3Player\obj\Debug\MP3Player.Form1.resources
+E:\范例宝典精华版\MP3Player\MP3Player\obj\Debug\MP3Player.Properties.Resources.resources
+E:\范例宝典精华版\MP3Player\MP3Player\obj\Debug\MP3Player.csproj.GenerateResource.Cache
+E:\范例宝典精华版\MP3Player\MP3Player\obj\Debug\MP3Player.exe
+E:\范例宝典精华版\MP3Player\MP3Player\obj\Debug\MP3Player.pdb
+E:\工作文稿\范例宝典精华版\MP3Player\MP3Player\obj\Debug\MP3Player.exe
+E:\工作文稿\范例宝典精华版\MP3Player\MP3Player\obj\Debug\MP3Player.pdb
+E:\工作文稿\范例宝典精华版\MP3Player\MP3Player\bin\Debug\MP3Player.exe
+E:\工作文稿\范例宝典精华版\MP3Player\MP3Player\bin\Debug\MP3Player.pdb
+E:\工作文稿\范例宝典精华版\MP3Player\MP3Player\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\MP3Player\MP3Player\obj\Debug\MP3Player.Form1.resources
+E:\工作文稿\范例宝典精华版\MP3Player\MP3Player\obj\Debug\MP3Player.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\MP3Player\MP3Player\obj\Debug\MP3Player.csproj.GenerateResource.Cache
+E:\工作文稿\范例宝典精华版\MP3Player\MP3Player\bin\Debug\Interop.WMPLib.dll
+E:\工作文稿\范例宝典精华版\MP3Player\MP3Player\bin\Debug\AxInterop.WMPLib.dll
+E:\工作文稿\范例宝典精华版\MP3Player\MP3Player\obj\Debug\Interop.WMPLib.dll
+E:\工作文稿\范例宝典精华版\MP3Player\MP3Player\obj\Debug\AxInterop.WMPLib.dll
+E:\工作文稿\范例宝典精华版\MP3Player\MP3Player\obj\Debug\MP3Player.csproj.ResolveComReference.cache
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\MP3播放器\MP3Player\obj\Debug\Interop.WMPLib.dll
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\MP3播放器\MP3Player\obj\Debug\AxInterop.WMPLib.dll
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\MP3播放器\MP3Player\obj\Debug\MP3Player.csproj.ResolveComReference.cache
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\MP3播放器\MP3Player\obj\Debug\MP3Player.exe
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\MP3播放器\MP3Player\obj\Debug\MP3Player.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\MP3播放器\MP3Player\bin\Debug\MP3Player.exe
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\MP3播放器\MP3Player\bin\Debug\MP3Player.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\MP3播放器\MP3Player\bin\Debug\Interop.WMPLib.dll
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\MP3播放器\MP3Player\bin\Debug\AxInterop.WMPLib.dll
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\MP3播放器\MP3Player\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\MP3播放器\MP3Player\obj\Debug\MP3Player.Form1.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\MP3播放器\MP3Player\obj\Debug\MP3Player.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\MP3播放器\MP3Player\obj\Debug\MP3Player.csproj.GenerateResource.Cache
+F:\zhd\C#编程宝典\18章\18\05\MP3Player\MP3Player\obj\Debug\Interop.WMPLib.dll
+F:\zhd\C#编程宝典\18章\18\05\MP3Player\MP3Player\obj\Debug\AxInterop.WMPLib.dll
+F:\zhd\C#编程宝典\18章\18\05\MP3Player\MP3Player\obj\Debug\MP3Player.csproj.ResolveComReference.cache
+F:\zhd\C#编程宝典\18章\18\05\MP3Player\MP3Player\obj\Debug\MP3Player.exe
+F:\zhd\C#编程宝典\18章\18\05\MP3Player\MP3Player\obj\Debug\MP3Player.pdb
+F:\zhd\C#编程宝典\18章\18\05\MP3Player\MP3Player\bin\Debug\MP3Player.exe
+F:\zhd\C#编程宝典\18章\18\05\MP3Player\MP3Player\bin\Debug\MP3Player.pdb
+F:\zhd\C#编程宝典\18章\18\05\MP3Player\MP3Player\bin\Debug\Interop.WMPLib.dll
+F:\zhd\C#编程宝典\18章\18\05\MP3Player\MP3Player\bin\Debug\AxInterop.WMPLib.dll
+F:\zhd\C#编程宝典\18章\18\05\MP3Player\MP3Player\obj\Debug\ResolveAssemblyReference.cache
+F:\zhd\C#编程宝典\18章\18\05\MP3Player\MP3Player\obj\Debug\MP3Player.Form1.resources
+F:\zhd\C#编程宝典\18章\18\05\MP3Player\MP3Player\obj\Debug\MP3Player.Properties.Resources.resources
+F:\zhd\C#编程宝典\18章\18\05\MP3Player\MP3Player\obj\Debug\MP3Player.csproj.GenerateResource.Cache
+F:\zhd\C#编程宝典\18章\18\05_extend\MP3Player\MP3Player\obj\Debug\Interop.WMPLib.dll
+F:\zhd\C#编程宝典\18章\18\05_extend\MP3Player\MP3Player\obj\Debug\AxInterop.WMPLib.dll
+F:\zhd\C#编程宝典\18章\18\05_extend\MP3Player\MP3Player\obj\Debug\MP3Player.csproj.ResolveComReference.cache
+F:\zhd\C#编程宝典\18章\18\05_extend\MP3Player\MP3Player\obj\Debug\MP3Player.exe
+F:\zhd\C#编程宝典\18章\18\05_extend\MP3Player\MP3Player\obj\Debug\MP3Player.pdb
+F:\zhd\C#编程宝典\18章\18\05_extend\MP3Player\MP3Player\bin\Debug\MP3Player.exe
+F:\zhd\C#编程宝典\18章\18\05_extend\MP3Player\MP3Player\bin\Debug\MP3Player.pdb
+F:\zhd\C#编程宝典\18章\18\05_extend\MP3Player\MP3Player\bin\Debug\Interop.WMPLib.dll
+F:\zhd\C#编程宝典\18章\18\05_extend\MP3Player\MP3Player\bin\Debug\AxInterop.WMPLib.dll
+F:\zhd\C#编程宝典\18章\18\05_extend\MP3Player\MP3Player\obj\Debug\ResolveAssemblyReference.cache
+F:\zhd\C#编程宝典\18章\18\05_extend\MP3Player\MP3Player\obj\Debug\MP3Player.Form1.resources
+F:\zhd\C#编程宝典\18章\18\05_extend\MP3Player\MP3Player\obj\Debug\MP3Player.Properties.Resources.resources
+F:\zhd\C#编程宝典\18章\18\05_extend\MP3Player\MP3Player\obj\Debug\MP3Player.csproj.GenerateResource.Cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\18\05_extend\MP3Player\MP3Player\obj\Debug\Interop.WMPLib.dll
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\18\05_extend\MP3Player\MP3Player\obj\Debug\AxInterop.WMPLib.dll
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\18\05_extend\MP3Player\MP3Player\obj\Debug\MP3Player.csproj.ResolveComReference.cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\18\05_extend\MP3Player\MP3Player\obj\Debug\MP3Player.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\18\05_extend\MP3Player\MP3Player\obj\Debug\MP3Player.pdb

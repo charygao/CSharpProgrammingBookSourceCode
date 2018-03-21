@@ -1,0 +1,7 @@
+E:\源码\C#编程宝典\Instance\13\例13.7\UseOrderby\UseOrderby\bin\Debug\UseOrderby.exe
+E:\源码\C#编程宝典\Instance\13\例13.7\UseOrderby\UseOrderby\bin\Debug\UseOrderby.pdb
+E:\源码\C#编程宝典\Instance\13\例13.7\UseOrderby\UseOrderby\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#编程宝典\Instance\13\例13.7\UseOrderby\UseOrderby\obj\Debug\UseOrderby.exe
+E:\源码\C#编程宝典\Instance\13\例13.7\UseOrderby\UseOrderby\obj\Debug\UseOrderby.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\13\例13.7\UseOrderby\UseOrderby\obj\Debug\UseOrderby.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\13\例13.7\UseOrderby\UseOrderby\obj\Debug\UseOrderby.pdb

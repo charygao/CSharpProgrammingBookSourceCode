@@ -1,0 +1,16 @@
+E:\源码\C#编程宝典\Instance\14\例14.4\GetConSqlError\GetConSqlError\bin\Debug\GetConSqlError.exe
+E:\源码\C#编程宝典\Instance\14\例14.4\GetConSqlError\GetConSqlError\bin\Debug\GetConSqlError.pdb
+E:\源码\C#编程宝典\Instance\14\例14.4\GetConSqlError\GetConSqlError\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#编程宝典\Instance\14\例14.4\GetConSqlError\GetConSqlError\obj\Debug\GetConSqlError.Form1.resources
+E:\源码\C#编程宝典\Instance\14\例14.4\GetConSqlError\GetConSqlError\obj\Debug\GetConSqlError.Properties.Resources.resources
+E:\源码\C#编程宝典\Instance\14\例14.4\GetConSqlError\GetConSqlError\obj\Debug\GetConSqlError.csproj.GenerateResource.Cache
+E:\源码\C#编程宝典\Instance\14\例14.4\GetConSqlError\GetConSqlError\obj\Debug\GetConSqlError.exe
+E:\源码\C#编程宝典\Instance\14\例14.4\GetConSqlError\GetConSqlError\obj\Debug\GetConSqlError.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\14\例14.4\GetConSqlError\GetConSqlError\obj\Debug\GetConSqlError.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\14\例14.4\GetConSqlError\GetConSqlError\obj\Debug\GetConSqlError.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\14\例14.4\GetConSqlError\GetConSqlError\bin\Debug\GetConSqlError.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\14\例14.4\GetConSqlError\GetConSqlError\bin\Debug\GetConSqlError.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\14\例14.4\GetConSqlError\GetConSqlError\obj\Debug\ResolveAssemblyReference.cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\14\例14.4\GetConSqlError\GetConSqlError\obj\Debug\GetConSqlError.Form1.resources
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\14\例14.4\GetConSqlError\GetConSqlError\obj\Debug\GetConSqlError.Properties.Resources.resources
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\14\例14.4\GetConSqlError\GetConSqlError\obj\Debug\GetConSqlError.csproj.GenerateResource.Cache

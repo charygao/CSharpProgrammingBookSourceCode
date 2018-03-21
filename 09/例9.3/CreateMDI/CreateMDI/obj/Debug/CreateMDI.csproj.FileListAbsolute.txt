@@ -1,0 +1,12 @@
+E:\源码\C#编程宝典\Instance\9\例9.3\CreateMDI\CreateMDI\bin\Debug\CreateMDI.exe
+E:\源码\C#编程宝典\Instance\9\例9.3\CreateMDI\CreateMDI\bin\Debug\CreateMDI.pdb
+E:\源码\C#编程宝典\Instance\9\例9.3\CreateMDI\CreateMDI\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#编程宝典\Instance\9\例9.3\CreateMDI\CreateMDI\obj\Debug\CreateMDI.Form1.resources
+E:\源码\C#编程宝典\Instance\9\例9.3\CreateMDI\CreateMDI\obj\Debug\CreateMDI.Form2.resources
+E:\源码\C#编程宝典\Instance\9\例9.3\CreateMDI\CreateMDI\obj\Debug\CreateMDI.Form3.resources
+E:\源码\C#编程宝典\Instance\9\例9.3\CreateMDI\CreateMDI\obj\Debug\CreateMDI.Properties.Resources.resources
+E:\源码\C#编程宝典\Instance\9\例9.3\CreateMDI\CreateMDI\obj\Debug\CreateMDI.csproj.GenerateResource.Cache
+E:\源码\C#编程宝典\Instance\9\例9.3\CreateMDI\CreateMDI\obj\Debug\CreateMDI.exe
+E:\源码\C#编程宝典\Instance\9\例9.3\CreateMDI\CreateMDI\obj\Debug\CreateMDI.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\9\例9.3\CreateMDI\CreateMDI\obj\Debug\CreateMDI.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\9\例9.3\CreateMDI\CreateMDI\obj\Debug\CreateMDI.pdb

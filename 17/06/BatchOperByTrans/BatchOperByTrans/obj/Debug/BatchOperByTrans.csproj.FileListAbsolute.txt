@@ -1,0 +1,16 @@
+E:\源码\C#编程宝典\Instance\17\06\BatchOperByTrans\BatchOperByTrans\bin\Debug\BatchOperByTrans.exe
+E:\源码\C#编程宝典\Instance\17\06\BatchOperByTrans\BatchOperByTrans\bin\Debug\BatchOperByTrans.pdb
+E:\源码\C#编程宝典\Instance\17\06\BatchOperByTrans\BatchOperByTrans\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#编程宝典\Instance\17\06\BatchOperByTrans\BatchOperByTrans\obj\Debug\BatchOperByTrans.Form1.resources
+E:\源码\C#编程宝典\Instance\17\06\BatchOperByTrans\BatchOperByTrans\obj\Debug\BatchOperByTrans.Properties.Resources.resources
+E:\源码\C#编程宝典\Instance\17\06\BatchOperByTrans\BatchOperByTrans\obj\Debug\BatchOperByTrans.csproj.GenerateResource.Cache
+E:\源码\C#编程宝典\Instance\17\06\BatchOperByTrans\BatchOperByTrans\obj\Debug\BatchOperByTrans.exe
+E:\源码\C#编程宝典\Instance\17\06\BatchOperByTrans\BatchOperByTrans\obj\Debug\BatchOperByTrans.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\17\06\BatchOperByTrans\BatchOperByTrans\obj\Debug\BatchOperByTrans.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\17\06\BatchOperByTrans\BatchOperByTrans\obj\Debug\BatchOperByTrans.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\17\06\BatchOperByTrans\BatchOperByTrans\bin\Debug\BatchOperByTrans.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\17\06\BatchOperByTrans\BatchOperByTrans\bin\Debug\BatchOperByTrans.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\17\06\BatchOperByTrans\BatchOperByTrans\obj\Debug\ResolveAssemblyReference.cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\17\06\BatchOperByTrans\BatchOperByTrans\obj\Debug\BatchOperByTrans.Form1.resources
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\17\06\BatchOperByTrans\BatchOperByTrans\obj\Debug\BatchOperByTrans.Properties.Resources.resources
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\17\06\BatchOperByTrans\BatchOperByTrans\obj\Debug\BatchOperByTrans.csproj.GenerateResource.Cache

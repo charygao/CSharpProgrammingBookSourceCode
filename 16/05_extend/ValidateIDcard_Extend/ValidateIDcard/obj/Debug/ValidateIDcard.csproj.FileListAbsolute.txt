@@ -1,0 +1,50 @@
+E:\工作文稿\范例宝典精华版\ValidateIDcard\ValidateIDcard\bin\Debug\ValidateIDcard.exe
+E:\工作文稿\范例宝典精华版\ValidateIDcard\ValidateIDcard\bin\Debug\ValidateIDcard.pdb
+E:\工作文稿\范例宝典精华版\ValidateIDcard\ValidateIDcard\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\ValidateIDcard\ValidateIDcard\obj\Debug\ValidateIDcard.Form1.resources
+E:\工作文稿\范例宝典精华版\ValidateIDcard\ValidateIDcard\obj\Debug\ValidateIDcard.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\ValidateIDcard\ValidateIDcard\obj\Debug\ValidateIDcard.csproj.GenerateResource.Cache
+E:\工作文稿\范例宝典精华版\ValidateIDcard\ValidateIDcard\obj\Debug\ValidateIDcard.exe
+E:\工作文稿\范例宝典精华版\ValidateIDcard\ValidateIDcard\obj\Debug\ValidateIDcard.pdb
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\身份证号码验证\ValidateIDcard\obj\Debug\ValidateIDcard.exe
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\身份证号码验证\ValidateIDcard\obj\Debug\ValidateIDcard.pdb
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\身份证号码验证\ValidateIDcard\bin\Debug\ValidateIDcard.exe
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\身份证号码验证\ValidateIDcard\bin\Debug\ValidateIDcard.pdb
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\身份证号码验证\ValidateIDcard\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\身份证号码验证\ValidateIDcard\obj\Debug\ValidateIDcard.Form1.resources
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\身份证号码验证\ValidateIDcard\obj\Debug\ValidateIDcard.Properties.Resources.resources
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\身份证号码验证\ValidateIDcard\obj\Debug\ValidateIDcard.csproj.GenerateResource.Cache
+E:\工作文稿\C#范例手册\06\067\sl\ValidateIDcard\obj\Debug\ValidateIDcard.exe
+E:\工作文稿\C#范例手册\06\067\sl\ValidateIDcard\obj\Debug\ValidateIDcard.pdb
+F:\zhd\C#编程宝典\16章\身份证号验证\ValidateIDcard\ValidateIDcard\obj\Debug\ValidateIDcard.exe
+F:\zhd\C#编程宝典\16章\身份证号验证\ValidateIDcard\ValidateIDcard\obj\Debug\ValidateIDcard.pdb
+F:\zhd\C#编程宝典\16章\身份证号验证\ValidateIDcard\ValidateIDcard\bin\Debug\ValidateIDcard.exe
+F:\zhd\C#编程宝典\16章\身份证号验证\ValidateIDcard\ValidateIDcard\bin\Debug\ValidateIDcard.pdb
+F:\zhd\C#编程宝典\16章\身份证号验证\ValidateIDcard\ValidateIDcard\obj\Debug\ResolveAssemblyReference.cache
+F:\zhd\C#编程宝典\16章\身份证号验证\ValidateIDcard\ValidateIDcard\obj\Debug\ValidateIDcard.Form1.resources
+F:\zhd\C#编程宝典\16章\身份证号验证\ValidateIDcard\ValidateIDcard\obj\Debug\ValidateIDcard.Properties.Resources.resources
+F:\zhd\C#编程宝典\16章\身份证号验证\ValidateIDcard\ValidateIDcard\obj\Debug\ValidateIDcard.csproj.GenerateResource.Cache
+F:\zhd\C#编程宝典\16章\身份证号验证\ValidateIDcard2\ValidateIDcard\obj\Debug\ValidateIDcard.exe
+F:\zhd\C#编程宝典\16章\身份证号验证\ValidateIDcard2\ValidateIDcard\obj\Debug\ValidateIDcard.pdb
+F:\zhd\C#编程宝典\16章\身份证号验证\ValidateIDcard2\ValidateIDcard\bin\Debug\ValidateIDcard.exe
+F:\zhd\C#编程宝典\16章\身份证号验证\ValidateIDcard2\ValidateIDcard\bin\Debug\ValidateIDcard.pdb
+F:\zhd\C#编程宝典\16章\身份证号验证\ValidateIDcard2\ValidateIDcard\obj\Debug\ResolveAssemblyReference.cache
+F:\zhd\C#编程宝典\16章\身份证号验证\ValidateIDcard2\ValidateIDcard\obj\Debug\ValidateIDcard.Form1.resources
+F:\zhd\C#编程宝典\16章\身份证号验证\ValidateIDcard2\ValidateIDcard\obj\Debug\ValidateIDcard.Properties.Resources.resources
+F:\zhd\C#编程宝典\16章\身份证号验证\ValidateIDcard2\ValidateIDcard\obj\Debug\ValidateIDcard.csproj.GenerateResource.Cache
+F:\zhd\C#编程宝典\16章\16\05_extend\ValidateIDcard_Extend\ValidateIDcard\obj\Debug\ValidateIDcard.exe
+F:\zhd\C#编程宝典\16章\16\05_extend\ValidateIDcard_Extend\ValidateIDcard\obj\Debug\ValidateIDcard.pdb
+F:\zhd\C#编程宝典\16章\16\05_extend\ValidateIDcard_Extend\ValidateIDcard\bin\Debug\ValidateIDcard.exe
+F:\zhd\C#编程宝典\16章\16\05_extend\ValidateIDcard_Extend\ValidateIDcard\bin\Debug\ValidateIDcard.pdb
+F:\zhd\C#编程宝典\16章\16\05_extend\ValidateIDcard_Extend\ValidateIDcard\obj\Debug\ResolveAssemblyReference.cache
+F:\zhd\C#编程宝典\16章\16\05_extend\ValidateIDcard_Extend\ValidateIDcard\obj\Debug\ValidateIDcard.Form1.resources
+F:\zhd\C#编程宝典\16章\16\05_extend\ValidateIDcard_Extend\ValidateIDcard\obj\Debug\ValidateIDcard.Properties.Resources.resources
+F:\zhd\C#编程宝典\16章\16\05_extend\ValidateIDcard_Extend\ValidateIDcard\obj\Debug\ValidateIDcard.csproj.GenerateResource.Cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\16\05_extend\ValidateIDcard_Extend\ValidateIDcard\obj\Debug\ValidateIDcard.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\16\05_extend\ValidateIDcard_Extend\ValidateIDcard\obj\Debug\ValidateIDcard.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\16\05_extend\ValidateIDcard_Extend\ValidateIDcard\bin\Debug\ValidateIDcard.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\16\05_extend\ValidateIDcard_Extend\ValidateIDcard\bin\Debug\ValidateIDcard.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\16\05_extend\ValidateIDcard_Extend\ValidateIDcard\obj\Debug\ResolveAssemblyReference.cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\16\05_extend\ValidateIDcard_Extend\ValidateIDcard\obj\Debug\ValidateIDcard.Form1.resources
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\16\05_extend\ValidateIDcard_Extend\ValidateIDcard\obj\Debug\ValidateIDcard.Properties.Resources.resources
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\16\05_extend\ValidateIDcard_Extend\ValidateIDcard\obj\Debug\ValidateIDcard.csproj.GenerateResource.Cache

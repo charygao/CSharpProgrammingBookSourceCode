@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ArrayOfQQInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <QQInfo>
+    <Number>383835904</Number>
+    <Pwd>GyLPHDcqUxuXGkYitkWsgg==</Pwd>
+    <LastLoginTime>2010/4/19 11:41:39</LastLoginTime>
+    <IsHide>true</IsHide>
+    <IsChecked>true</IsChecked>
+  </QQInfo>
+  <QQInfo>
+    <Number>361949841</Number>
+    <Pwd>GyLPHDcqUxuXGkYitkWsgg==</Pwd>
+    <LastLoginTime>2010/4/19 11:41:39</LastLoginTime>
+    <IsHide>false</IsHide>
+    <IsChecked>true</IsChecked>
+  </QQInfo>
+  <QQInfo>
+    <Number>100310265</Number>
+    <Pwd>QY1vf8InyyBeynZZNlevVw==</Pwd>
+    <LastLoginTime>2010/4/19 11:41:39</LastLoginTime>
+    <IsHide>false</IsHide>
+    <IsChecked>true</IsChecked>
+  </QQInfo>
+  <QQInfo>
+    <Number>200958602</Number>
+    <Pwd>Bcr2ts1NwHqYJIEpGDDRmw==</Pwd>
+    <LastLoginTime>2010/4/19 11:41:39</LastLoginTime>
+    <IsHide>true</IsHide>
+    <IsChecked>true</IsChecked>
+  </QQInfo>
+</ArrayOfQQInfo>

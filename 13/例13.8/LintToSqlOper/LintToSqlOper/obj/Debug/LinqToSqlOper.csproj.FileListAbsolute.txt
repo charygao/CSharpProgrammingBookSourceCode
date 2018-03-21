@@ -1,0 +1,3 @@
+E:\源码\C#编程宝典\Instance\13\例13.8\LintToSqlOper\LintToSqlOper\bin\Debug\LintToSqlOper.exe.config
+E:\源码\C#编程宝典\Instance\13\例13.8\LintToSqlOper\LintToSqlOper\obj\Debug\LintToSqlOper.exe
+E:\源码\C#编程宝典\Instance\13\例13.8\LintToSqlOper\LintToSqlOper\obj\Debug\LintToSqlOper.pdb

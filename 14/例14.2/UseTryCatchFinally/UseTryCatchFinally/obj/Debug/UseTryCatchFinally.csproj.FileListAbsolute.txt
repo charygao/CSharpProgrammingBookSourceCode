@@ -1,0 +1,7 @@
+E:\源码\C#编程宝典\Instance\14\例14.2\UseTryCatchFinally\UseTryCatchFinally\bin\Debug\UseTryCatchFinally.exe
+E:\源码\C#编程宝典\Instance\14\例14.2\UseTryCatchFinally\UseTryCatchFinally\bin\Debug\UseTryCatchFinally.pdb
+E:\源码\C#编程宝典\Instance\14\例14.2\UseTryCatchFinally\UseTryCatchFinally\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#编程宝典\Instance\14\例14.2\UseTryCatchFinally\UseTryCatchFinally\obj\Debug\UseTryCatchFinally.exe
+E:\源码\C#编程宝典\Instance\14\例14.2\UseTryCatchFinally\UseTryCatchFinally\obj\Debug\UseTryCatchFinally.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\14\例14.2\UseTryCatchFinally\UseTryCatchFinally\obj\Debug\UseTryCatchFinally.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\14\例14.2\UseTryCatchFinally\UseTryCatchFinally\obj\Debug\UseTryCatchFinally.pdb

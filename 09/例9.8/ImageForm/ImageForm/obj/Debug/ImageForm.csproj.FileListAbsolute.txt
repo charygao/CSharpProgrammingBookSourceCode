@@ -1,0 +1,10 @@
+E:\源码\C#编程宝典\Instance\9\例9.8\ImageForm\ImageForm\bin\Debug\ImageForm.exe
+E:\源码\C#编程宝典\Instance\9\例9.8\ImageForm\ImageForm\bin\Debug\ImageForm.pdb
+E:\源码\C#编程宝典\Instance\9\例9.8\ImageForm\ImageForm\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#编程宝典\Instance\9\例9.8\ImageForm\ImageForm\obj\Debug\ImageForm.Form1.resources
+E:\源码\C#编程宝典\Instance\9\例9.8\ImageForm\ImageForm\obj\Debug\ImageForm.Properties.Resources.resources
+E:\源码\C#编程宝典\Instance\9\例9.8\ImageForm\ImageForm\obj\Debug\ImageForm.csproj.GenerateResource.Cache
+E:\源码\C#编程宝典\Instance\9\例9.8\ImageForm\ImageForm\obj\Debug\ImageForm.exe
+E:\源码\C#编程宝典\Instance\9\例9.8\ImageForm\ImageForm\obj\Debug\ImageForm.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\9\例9.8\ImageForm\ImageForm\obj\Debug\ImageForm.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\9\例9.8\ImageForm\ImageForm\obj\Debug\ImageForm.pdb

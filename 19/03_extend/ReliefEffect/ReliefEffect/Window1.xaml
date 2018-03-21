@@ -1,0 +1,16 @@
+﻿<Window x:Class="ReliefEffect.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="图片的浮雕边缘效果" WindowStartupLocation="CenterScreen" Height="236" Width="350">
+        <Grid>
+        <Image Source="test.jpg" Width="130" HorizontalAlignment="Left" Margin="15,39,0,19">
+        </Image>
+        <Image Source="test.jpg" Margin="0,39,21,19" HorizontalAlignment="Right" Width="130">
+            <Image.BitmapEffect>
+                <EmbossBitmapEffect Relief="0.2"></EmbossBitmapEffect>
+            </Image.BitmapEffect>
+        </Image>
+        <Label Height="28" HorizontalAlignment="Left" Margin="15,5,0,0" Name="label1" VerticalAlignment="Top" Width="120">原图效果：</Label>
+        <Label Height="28" Margin="167,5,98,0" Name="label2" VerticalAlignment="Top">浮雕效果：</Label>
+    </Grid>
+</Window>

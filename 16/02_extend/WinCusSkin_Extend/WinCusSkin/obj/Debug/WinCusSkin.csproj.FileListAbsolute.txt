@@ -1,0 +1,38 @@
+D:\My Documents\Visual Studio 2008\Projects\WinCusSkin\WinCusSkin\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2008\Projects\WinCusSkin\WinCusSkin\obj\Debug\WinCusSkin.Properties.Resources.resources
+D:\My Documents\Visual Studio 2008\Projects\WinCusSkin\WinCusSkin\obj\Debug\WinCusSkin.csproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2008\Projects\WinCusSkin\WinCusSkin\bin\Debug\WinCusSkin.exe
+D:\My Documents\Visual Studio 2008\Projects\WinCusSkin\WinCusSkin\bin\Debug\WinCusSkin.pdb
+D:\My Documents\Visual Studio 2008\Projects\WinCusSkin\WinCusSkin\obj\Debug\WinCusSkin.exe
+D:\My Documents\Visual Studio 2008\Projects\WinCusSkin\WinCusSkin\obj\Debug\WinCusSkin.pdb
+D:\My Documents\Visual Studio 2008\Projects\WinCusSkin\WinCusSkin\obj\Debug\WinCusSkin.frmBarterSking.resources
+D:\My Documents\Visual Studio 2008\Projects\WinCusSkin\WinCusSkin\obj\Debug\WinCusSkin.Form1.resources
+D:\C#小李子\WinCusSkin\WinCusSkin\obj\Debug\WinCusSkin.exe
+D:\C#小李子\WinCusSkin\WinCusSkin\obj\Debug\WinCusSkin.pdb
+D:\C#小李子\WinCusSkin\WinCusSkin\obj\Debug\ResolveAssemblyReference.cache
+D:\C#小李子\WinCusSkin\WinCusSkin\obj\Debug\WinCusSkin.Form1.resources
+D:\C#小李子\WinCusSkin\WinCusSkin\obj\Debug\WinCusSkin.FormCusSkin.resources
+D:\C#小李子\WinCusSkin\WinCusSkin\obj\Debug\WinCusSkin.Properties.Resources.resources
+D:\C#小李子\WinCusSkin\WinCusSkin\obj\Debug\WinCusSkin.csproj.GenerateResource.Cache
+D:\C#小李子\WinCusSkin\WinCusSkin\bin\Debug\WinCusSkin.exe
+D:\C#小李子\WinCusSkin\WinCusSkin\bin\Debug\WinCusSkin.pdb
+D:\C#小李子\C#窗体换皮肤\WinCusSkin\WinCusSkin\obj\Debug\WinCusSkin.exe
+D:\C#小李子\C#窗体换皮肤\WinCusSkin\WinCusSkin\obj\Debug\WinCusSkin.pdb
+F:\zhd\C#编程宝典\16章\16\02\WinCusSkin\WinCusSkin\obj\Debug\WinCusSkin.exe
+F:\zhd\C#编程宝典\16章\16\02\WinCusSkin\WinCusSkin\obj\Debug\WinCusSkin.pdb
+F:\zhd\C#编程宝典\16章\16\02\WinCusSkin\WinCusSkin\bin\Debug\WinCusSkin.exe
+F:\zhd\C#编程宝典\16章\16\02\WinCusSkin\WinCusSkin\bin\Debug\WinCusSkin.pdb
+F:\zhd\C#编程宝典\16章\16\02\WinCusSkin\WinCusSkin\obj\Debug\ResolveAssemblyReference.cache
+F:\zhd\C#编程宝典\16章\16\02\WinCusSkin\WinCusSkin\obj\Debug\WinCusSkin.Properties.Resources.resources
+F:\zhd\C#编程宝典\16章\16\02\WinCusSkin\WinCusSkin\obj\Debug\WinCusSkin.csproj.GenerateResource.Cache
+F:\zhd\C#编程宝典\16章\16\02\WinCusSkin\WinCusSkin\obj\Debug\WinCusSkin.Form1.resources
+F:\zhd\C#编程宝典\16章\16\02_extend\WinCusSkin_Extend\WinCusSkin\obj\Debug\WinCusSkin.exe
+F:\zhd\C#编程宝典\16章\16\02_extend\WinCusSkin_Extend\WinCusSkin\obj\Debug\WinCusSkin.pdb
+F:\zhd\C#编程宝典\16章\16\02_extend\WinCusSkin_Extend\WinCusSkin\bin\Debug\WinCusSkin.exe
+F:\zhd\C#编程宝典\16章\16\02_extend\WinCusSkin_Extend\WinCusSkin\bin\Debug\WinCusSkin.pdb
+F:\zhd\C#编程宝典\16章\16\02_extend\WinCusSkin_Extend\WinCusSkin\obj\Debug\ResolveAssemblyReference.cache
+F:\zhd\C#编程宝典\16章\16\02_extend\WinCusSkin_Extend\WinCusSkin\obj\Debug\WinCusSkin.Form1.resources
+F:\zhd\C#编程宝典\16章\16\02_extend\WinCusSkin_Extend\WinCusSkin\obj\Debug\WinCusSkin.Properties.Resources.resources
+F:\zhd\C#编程宝典\16章\16\02_extend\WinCusSkin_Extend\WinCusSkin\obj\Debug\WinCusSkin.csproj.GenerateResource.Cache
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\16\02_extend\WinCusSkin_Extend\WinCusSkin\obj\Debug\WinCusSkin.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\16\02_extend\WinCusSkin_Extend\WinCusSkin\obj\Debug\WinCusSkin.pdb

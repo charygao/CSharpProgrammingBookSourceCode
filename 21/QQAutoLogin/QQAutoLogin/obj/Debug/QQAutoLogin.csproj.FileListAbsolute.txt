@@ -1,0 +1,13 @@
+E:\源码\C#编程宝典\Instance\21\QQAutoLogin\QQAutoLogin\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#编程宝典\Instance\21\QQAutoLogin\QQAutoLogin\obj\Debug\QQAutoLogin.frmAddQQ.resources
+E:\源码\C#编程宝典\Instance\21\QQAutoLogin\QQAutoLogin\obj\Debug\QQAutoLogin.frmMain.resources
+E:\源码\C#编程宝典\Instance\21\QQAutoLogin\QQAutoLogin\obj\Debug\QQAutoLogin.frmSet.resources
+E:\源码\C#编程宝典\Instance\21\QQAutoLogin\QQAutoLogin\obj\Debug\QQAutoLogin.Properties.Resources.resources
+E:\源码\C#编程宝典\Instance\21\QQAutoLogin\QQAutoLogin\obj\Debug\QQAutoLogin.csproj.GenerateResource.Cache
+E:\源码\C#编程宝典\Instance\21\QQAutoLogin\QQAutoLogin\bin\Debug\QQAutoLogin.exe
+E:\源码\C#编程宝典\Instance\21\QQAutoLogin\QQAutoLogin\bin\Debug\QQAutoLogin.pdb
+E:\源码\C#编程宝典\Instance\21\QQAutoLogin\QQAutoLogin\obj\Debug\QQAutoLogin.exe
+E:\源码\C#编程宝典\Instance\21\QQAutoLogin\QQAutoLogin\obj\Debug\QQAutoLogin.pdb
+E:\源码\C#编程宝典\Instance\21\QQAutoLogin\QQAutoLogin\obj\Debug\QQAutoLogin.frmAbout.resources
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\21\QQAutoLogin\QQAutoLogin\obj\Debug\QQAutoLogin.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\21\QQAutoLogin\QQAutoLogin\obj\Debug\QQAutoLogin.pdb

@@ -1,0 +1,7 @@
+E:\源码\C#编程宝典\Instance\6\例6.11\FormatStr\FormatStr\bin\Debug\FormatStr.exe
+E:\源码\C#编程宝典\Instance\6\例6.11\FormatStr\FormatStr\bin\Debug\FormatStr.pdb
+E:\源码\C#编程宝典\Instance\6\例6.11\FormatStr\FormatStr\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#编程宝典\Instance\6\例6.11\FormatStr\FormatStr\obj\Debug\FormatStr.exe
+E:\源码\C#编程宝典\Instance\6\例6.11\FormatStr\FormatStr\obj\Debug\FormatStr.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\6\例6.11\FormatStr\FormatStr\obj\Debug\FormatStr.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\6\例6.11\FormatStr\FormatStr\obj\Debug\FormatStr.pdb

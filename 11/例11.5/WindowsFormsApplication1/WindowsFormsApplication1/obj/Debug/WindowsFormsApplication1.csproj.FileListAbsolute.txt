@@ -1,0 +1,10 @@
+D:\源码\编程宝典\内容\光盘代码\MR\Instance\11\例11.5\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\源码\编程宝典\内容\光盘代码\MR\Instance\11\例11.5\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\源码\编程宝典\内容\光盘代码\MR\Instance\11\例11.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\源码\编程宝典\内容\光盘代码\MR\Instance\11\例11.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\源码\编程宝典\内容\光盘代码\MR\Instance\11\例11.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\源码\编程宝典\内容\光盘代码\MR\Instance\11\例11.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\源码\编程宝典\内容\光盘代码\MR\Instance\11\例11.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\源码\编程宝典\内容\光盘代码\MR\Instance\11\例11.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\11\例11.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\11\例11.5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

@@ -1,0 +1,7 @@
+E:\源码\C#编程宝典\Instance\5\例5.5\SelectSort\SelectSort\bin\Debug\SelectSort.exe
+E:\源码\C#编程宝典\Instance\5\例5.5\SelectSort\SelectSort\bin\Debug\SelectSort.pdb
+E:\源码\C#编程宝典\Instance\5\例5.5\SelectSort\SelectSort\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#编程宝典\Instance\5\例5.5\SelectSort\SelectSort\obj\Debug\SelectSort.exe
+E:\源码\C#编程宝典\Instance\5\例5.5\SelectSort\SelectSort\obj\Debug\SelectSort.pdb
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\5\例5.5\SelectSort\SelectSort\obj\Debug\SelectSort.exe
+E:\顾丽丽\图书方向\检测程序(各类图书)\C#编程宝典\5\例5.5\SelectSort\SelectSort\obj\Debug\SelectSort.pdb
